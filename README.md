@@ -36,7 +36,7 @@
   },
   "status": "success"
   
-  It shuould be captures in Service. Sevice should return the data to controller.
+  It shuould be captured in Service. Sevice should return the data to controller.
   
   1. Page need to display List of available employees.
   
